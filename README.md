@@ -1,8 +1,6 @@
 # 🌍 AI Diplomatic Negotiator
 **Powered by AutoGen + OpenAI**
 
-🌐 **[View Live Application](https://autogen-diplomatic-negotiator.vercel.app/)**
-
 > **Simulate complex diplomatic negotiations with AI agents. Define parties, set constraints, and watch as role-based delegates negotiate structured agreements with comprehensive risk assessments—all in real-time.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -280,8 +278,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-
-[Live Demo](https://autogen-diplomatic-negotiator.vercel.app/)
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
